@@ -1,9 +1,15 @@
-# *process flow* handChecker 2023.09
+# hand gesture UI
 
-say "check"
+## to start
+![beforeSnip](https://github.com/metatatt/handgesture-snapshot/assets/100538673/d834f154-2c3f-4af9-826c-04f76b977a67)
+
+
+## say "check"
 ![saycheck](https://github.com/metatatt/handgesture-snapshot/assets/100538673/69b3dd7c-4812-429a-85eb-1dcb7b206e0e)
 
-snipped!
+
+## sent to Azure vision AI
+
 ![saycheck2](https://github.com/metatatt/handgesture-snapshot/assets/100538673/0f3df6e7-4750-40d1-b6d9-429f469c630d)
 
 
